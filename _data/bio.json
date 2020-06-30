@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Vashu Raghav",
-    "label": "Software Engineer | ML/AI Enthusiast",
+    "label": "Software Engineer",
     "picture": "https://vashuraghav.github.io/images/vashu.jpg",
     "email": "vashu.raghavism@gmail.com",
     "phone": "+91-8797245847",
     "website": "https://vashuraghav.github.io",
-    "summary": "I am a Software Engineer at Global Logic Pvt. Ltd",
+    "summary": "I am currently working as a Software Engineer at Global Logic Pvt. Ltd., Bangalore, India",
     "location": {
       "address": "",
       "postalCode": "560035",
@@ -52,10 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
+        "Javascript(NodeJs & ReactJs)",
+        "Python"      ]
     },
     {
       "name": "Toolsets/OS",
@@ -64,34 +62,35 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Latex",
+        "Adobe Photoshop",
+        "Microsoft Office"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Indian Institute of Technology (ISM) Dhanbad, India",
+      "area": "Petroleum Engineering",
+      "studyType": "B.Tech(hons.)",
+      "startDate": "2014-06-21",
+      "endDate": "2018-05-10",
+      "gpa": "8/10",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Global Logic Pvt. Ltd.",
+      "position": "Software Engineer",
+      "website": "https://www.globallogic.com/",
+      "startDate": "2019-04-09",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Working as a Java Developer as well as building small AI/ML based products",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Worked on various Java based framework",
+        "Develop a voice based assistant name Skyri and integrated it with existing web application"
       ]
     },
     {
