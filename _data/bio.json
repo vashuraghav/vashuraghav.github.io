@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Vashu Raghav",
+    "label": "Software Engineer | ML/AI Enthusiast",
+    "picture": "https://vashuraghav.github.io/images/vashu.jpg",
+    "email": "vashu.raghavism@gmail.com",
+    "phone": "+91-8797245847",
+    "website": "https://vashuraghav.github.io",
+    "summary": "I am a Software Engineer at Global Logic Pvt. Ltd",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "560035",
+      "city": "Bangalore",
+      "countryCode": "India",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "vashuraghav",
+        "url": "http://github.com/vashuraghav"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/vashuraghav"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
