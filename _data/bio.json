@@ -59,12 +59,13 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
         "Latex",
+        "Git/GitHub",
+        "VBA",
         "Adobe Photoshop",
-        "Microsoft Office"
+        "Microsoft Office",
+        "MacOS",
+        "Ubuntu"
       ]
     }
   ],
@@ -89,8 +90,6 @@
       "endDate": "Present",
       "summary": "Working as a Java Developer for a marketing automation tool from Marketo - an Adobe Company.",
       "highlights": [
-        "Worked on various Java based framework like Spring Boot, Hibernate, TestNg etc.",
-        "Developed a Voice-Based Chat Assistant for the Marketo - An Adobe Company using RASA Conversation framework (NLP)  in python."
       ]
     },
     {
@@ -99,48 +98,40 @@
       "website": "http://www.pentaur.com",
       "startDate": "2018-07-08",
       "endDate": "2019-03-31",
-      "summary": "Worked as a Full Stack Developer and outsource for a US based firm called Nurture Co",
+      "summary": "Worked as a Full Stack Developer using JavaScript and outsource for a US based firm called Nurture Co",
       "highlights": [
-        "Gained insight of various frontend & backend libraries/framework of JavaScript like Node.JS, Express, ReactJS"
       ]
     },
     {
       "company": "Pentaur Technology Pvt. Ltd",
-      "position": "Summer Internee",
+      "position": "Poker Bot Developer, Summer Internee",
       "website": "http://www.pentaur.com",
       "startDate": "2017-05-10",
       "endDate": "2017-07-10",
-      "summary": "Worked as a Poker Bot Developer for the mobile gaming application named Poker Square",
+      "summary": "Developed a Poker-Bot Algorithm using Monte Carlo Simulation for the mobile gaming application named Poker Square",
       "highlights": [
-        "Developed a Poker-Bot Algorithm using Monte Carlo Simulation.",
-        "Implemented the algorithm using Elixir Programming in the gaming application."
       ]
     }
   ],
-  "volunteer": [
+  "projects": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "AI/ML Marketing Solution",
+      "website": "",
+      "position": "Retail Marketing Intelligence",
+      "startDate": "2019-11-01",
+      "endDate": "2020-01-10",
+      "summary": "Developed an AI based integrated system for retail marketing using Image Recognition, NLP and Voice synthesis",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Object Detection Algorithm",
+      "website": "https://github.com/vashuraghav/Car-Damage-Detection",
+      "position": "Car Damage Detection",
+      "startDate": "2020-05-20",
+      "endDate": "2020-06-05",
+      "summary": "Developed a car damage detection model which detects the external damage on the car in the form of scratch or dent.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
