@@ -130,7 +130,7 @@
       "position": "Car Damage Detection",
       "startDate": "2020-05-20",
       "endDate": "2020-06-05",
-      "summary": "Developed a car damage detection model which detects external damage on the car in the form of scratch or dent.",
+      "summary": "Developed a car damage detection model which detects external damage on the car in the form of scratch/dent.",
       "highlights": [
       ]
     }
