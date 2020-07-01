@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://i.ibb.co/Ld9f81z/Detection-Image7.png=50px
+image: images/car_detection_image.png
 title: Car Damage Detection
 permalink: projects/car_damage_detection
 # All dates must be YYYY-MM-DD format!
