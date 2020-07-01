@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "vashuraghav",
         "url": "http://linkedin.com/in/vashuraghav"
       }
     ]
@@ -72,7 +72,7 @@
     {
       "institution": "Indian Institute of Technology (ISM) Dhanbad, India",
       "area": "Petroleum Engineering",
-      "studyType": "B.Tech(hons.)",
+      "studyType": "B.Tech (hons.) ",
       "startDate": "2014-06-21",
       "endDate": "2018-05-10",
       "gpa": "8/10",
@@ -87,22 +87,33 @@
       "website": "https://www.globallogic.com/",
       "startDate": "2019-04-09",
       "endDate": "Present",
-      "summary": "Working as a Java Developer as well as building small AI/ML based products",
+      "summary": "Working as a Java Developer for a marketing automation tool from Marketo - an Adobe Company.",
       "highlights": [
-        "Worked on various Java based framework",
-        "Develop a voice based assistant name Skyri and integrated it with existing web application"
+        "Worked on various Java based framework like Spring Boot, Hibernate, TestNg etc.",
+        "Developed a Voice-Based Chat Assistant for the Marketo - An Adobe Company using RASA Conversation framework (NLP)  in python."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Pentaur Technology Pvt. Ltd",
+      "position": "Software Engineer",
+      "website": "http://www.pentaur.com",
+      "startDate": "2018-07-08",
+      "endDate": "2019-03-31",
+      "summary": "Worked as a Full Stack Developer and outsource for a US based firm called Nurture Co",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Gained insight of various frontend & backend libraries/framework of JavaScript like Node.JS, Express, ReactJS"
+      ]
+    },
+    {
+      "company": "Pentaur Technology Pvt. Ltd",
+      "position": "Summer Internee",
+      "website": "http://www.pentaur.com",
+      "startDate": "2017-05-10",
+      "endDate": "2017-07-10",
+      "summary": "Worked as a Poker Bot Developer for the mobile gaming application named Poker Square",
+      "highlights": [
+        "Developed a Poker-Bot Algorithm using Monte Carlo Simulation.",
+        "Implemented the algorithm using Elixir Programming in the gaming application."
       ]
     }
   ],
