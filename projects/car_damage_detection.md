@@ -3,7 +3,7 @@ layout: project
 type: project
 image: https://i.ibb.co/Ld9f81z/Detection-Image7.png
 title: Car Damage Detection
-permalink: projects/vacay
+permalink: projects/car_damage_detection
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-06
 labels:
