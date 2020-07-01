@@ -146,16 +146,28 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "First Place",
+      "date": "2017",
+      "awarder": "Royal Dutch Shell",
+      "summary": "Winner of Shell Darcy Case Study, a business case study challenge on Shell Day at IIT(ISM)Dhanbad"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Fest Logo Designer",
+      "date": "2017",
+      "awarder": "Concetto-techfest of IIT(ISM) Dhanbad",
+      "summary": "Designed a fest logo for Concetto-tech fest of IIT(ISM)Dhanbad"
+    },
+    {
+      "title": "Second Place",
+      "date": "2017",
+      "awarder": "Royal Dutch Shell",
+      "summary": "Runner-up of HSSE Photo Competition on “Achieving Goal Zero Because We Care” at Shell’s Safety Day"
+    },
+    {
+      "title": "Second Place",
+      "date": "2016",
+      "awarder": "Petrotech Annual Convention ",
+      "summary": "Runner-up of Creative Power Point Presentation  on “Falling Crude Oil Prices” at Petrotech Annual Convention"
     }
   ],
   "references": [
