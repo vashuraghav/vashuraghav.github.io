@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-published: true
 title: No Publication Found
 # All dates must be YYYY-MM-DD format!
-date: 
+date: 2020-06-30
 labels:
-  - NA
+  - Nothing
 ---
 
 NO PUBLICATION YET
