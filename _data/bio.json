@@ -9,7 +9,7 @@
     "summary": "An AI/ML Enthusiast who is currently working as a Software Developer at Global Logic Pvt. Ltd. Bangalore",
     "location": {
       "address": "",
-      "postalCode": "560035",
+      "postalCode": "",
       "city": "Bangalore",
       "countryCode": "India",
       "region": ""
@@ -85,7 +85,7 @@
     {
       "company": "Global Logic Pvt. Ltd.",
       "position": "Software Engineer",
-      "website": "https://www.globallogic.com/",
+      "website": "https://www.globallogic.com",
       "startDate": "2019-04-09",
       "endDate": "Present",
       "summary": "Working as a Java Developer for a marketing automation tool from Marketo - an Adobe Company.",
@@ -108,7 +108,7 @@
       "website": "http://www.pentaur.com",
       "startDate": "2017-05-10",
       "endDate": "2017-07-10",
-      "summary": "Developed a Poker-Bot Algorithm using Monte Carlo Simulation for the mobile gaming application named Poker Square",
+      "summary": "Developed a Poker-Bot Algorithm using Monte Carlo Simulation for the gaming application named Poker Square",
       "highlights": [
       ]
     }
@@ -130,7 +130,7 @@
       "position": "Car Damage Detection",
       "startDate": "2020-05-20",
       "endDate": "2020-06-05",
-      "summary": "Developed a car damage detection model which detects the external damage on the car in the form of scratch or dent.",
+      "summary": "Developed a car damage detection model which detects external damage on the car in the form of scratch or dent.",
       "highlights": [
       ]
     }
@@ -145,7 +145,7 @@
     {
       "title": "Fest Logo Designer",
       "date": "2017",
-      "awarder": "Concetto-techfest of IIT(ISM) Dhanbad",
+      "awarder": "IIT(ISM) Dhanbad",
       "summary": "Designed a fest logo for Concetto-tech fest of IIT(ISM)Dhanbad"
     },
     {
@@ -163,7 +163,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
   ]
