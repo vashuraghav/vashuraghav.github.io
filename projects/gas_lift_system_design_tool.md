@@ -24,12 +24,19 @@ Application Demo
 
 <ol>
   <li>Open the program in MS Excel.</li>
+  
     <img class="ui image" src="../images/gas_lift_system_design_tool/2.png">
+    
   <li>Click on “Start Program” button to run the program.</li>
+  
   <li>Welcome to Intermittent Gas Lift window will appear.</li>
+
    <img class="ui image" src="../images/gas_lift_system_design_tool/3.png">
+   
   <li> Click on “Reset” button (just to make sure everything is cleaned up) and then fill up all the column with the desired data.</li>
+  
    <img class="ui image" src="../images/gas_lift_system_design_tool/4.png">
+   
 </ol>
 
 
