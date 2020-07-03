@@ -20,15 +20,15 @@ This software is made in Virtual Basic Application (VBA) of Microsoft Excel 2016
 
  <img class="ui image" src="../images/gas_lift_system_design_tool/1.png">
 
-Application Demo
+## Application Demo
 
-  1) Open the program in MS Excel.
+  1)Open the program in MS Excel.
   
    <img class="ui image" src="../images/gas_lift_system_design_tool/2.png">
     
-  2) Click on “Start Program” button to run the program.
+  2)Click on “Start Program” button to run the program.
   
-  Welcome to Intermittent Gas Lift window will appear.
+  3)Welcome to Intermittent Gas Lift window will appear.
 
    <img class="ui image" src="../images/gas_lift_system_design_tool/3.png">
    
