@@ -16,7 +16,7 @@ summary: This software is made in Virtual Basic Application (VBA) of Microsoft E
 
 This was my research project during my summer internship at Institute of Oil & Gas Production Technology(IOGPT), Mumbai under the mentorship of Mr. T.K. Mandal, DGM(P), Artifical Lift Department.
 This software is made in Virtual Basic Application (VBA) of Microsoft Excel 2016. It is used to design intermittent gas lift installation system, based on Constant Surface Closing Pressure procedure. A common design procedure for installations with single-point gas injection uses a constant surface closing pressure for all valves in the unloading valve string.
-![Software UI image 1](https://github.com/vashuraghav/vashuraghav.github.io/blob/master/images/gas_lift_system_design_tool/1.png)
+![Software UI image 1](https://github.com/vashuraghav/vashuraghav.github.io/blob/master/images/gas_lift_system_design_tool/main.jpg)
 
 Application Demo
 1. Open the program in MS Excel.
