@@ -22,16 +22,17 @@ This software is made in Virtual Basic Application (VBA) of Microsoft Excel 2016
 
 Application Demo
 
-1. Open the program in MS Excel.
- <img class="ui image" src="../images/gas_lift_system_design_tool/2.png">
+<ol>
+  <li>Open the program in MS Excel.</li>
+    <img class="ui image" src="../images/gas_lift_system_design_tool/2.png">
+  <li>Click on “Start Program” button to run the program.</li>
+  <li>Welcome to Intermittent Gas Lift window will appear.</li>
+   <img class="ui image" src="../images/gas_lift_system_design_tool/3.png">
+  <li> Click on “Reset” button (just to make sure everything is cleaned up) and then fill up all the column with the desired data.</li>
+   <img class="ui image" src="../images/gas_lift_system_design_tool/4.png">
+</ol>
 
-2. Click on “Start Program” button to run the program.
 
-3. Welcome to Intermittent Gas Lift window will appear.
- <img class="ui image" src="../images/gas_lift_system_design_tool/3.png">
-
-4. Click on “Reset” button (just to make sure everything is cleaned up) and then fill up all the column with the desired data.
- <img class="ui image" src="../images/gas_lift_system_design_tool/4.png">
 
 5. Click on “Calculate” button and a window named Valve Depth Selection will appear.
  <img class="ui image" src="../images/gas_lift_system_design_tool/5.png">
