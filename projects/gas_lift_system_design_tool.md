@@ -18,65 +18,43 @@ This was my research project during my summer internship at Institute of Oil & G
 
 This software is made in Virtual Basic Application (VBA) of Microsoft Excel 2016. It is used to design intermittent gas lift installation system, based on Constant Surface Closing Pressure procedure. A common design procedure for installations with single-point gas injection uses a constant surface closing pressure for all valves in the unloading valve string.
 
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/1.png">
-</div>
 
 Application Demo
 
 1. Open the program in MS Excel.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/2.png">
-</div>
 
 2. Click on “Start Program” button to run the program.
 3. Welcome to Intermittent Gas Lift window will appear.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/3.png">
-</div>
 
 4. Click on “Reset” button (just to make sure everything is cleaned up) and then fill up all the column with the desired data.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/4.png">
-</div>
 
 5. Click on “Calculate” button and a window named Valve Depth Selection will appear.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/5.png">
-</div>
 
 6. Click on “Next” and an Operating Valve Window will appear.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/6.png">
-</div>
 
 7. Fill up the Gas Volume and Pressure Loss column from Graph1 & Graph2 respectively and then Click “Get R” button.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/7.png">
-</div>
 
 8. R value will be shown in Operating valve frame.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/8.png">
-</div>
 
 9. If you have R near by the calculated R in operating valve frame, then input that value and click “GO” button.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/9.png">
-</div>
 
 10. Hence the opening pressure , tubing pressure and spread will be appear in their respective column.
 
 11. If the spread is near by to Pressure Loss then your reading are correct, but if it is different then change the Surf. Open Pr. by 10 psi in assume value frame and Repeat from Step7.
 
 12. Click “Finish” button the program.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/9.png">
-</div>
 
 13. An excel sheet of the data will appear and print out the results.
-<div class="ui small rounded images">
  <img class="ui image" src="../images/gas_lift_system_design_tool/10.png">
-</div>
 
 Source: <a href="https://github.com/vashuraghav/Gas-Lift-System-Design-Tool"><i class="large github icon"></i>Gas Lift Report</a>
