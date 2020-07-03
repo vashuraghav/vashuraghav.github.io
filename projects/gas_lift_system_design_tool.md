@@ -20,7 +20,7 @@ This software is made in Virtual Basic Application (VBA) of Microsoft Excel 2016
 
  <img class="ui image" src="../images/gas_lift_system_design_tool/1.png">
 
-Application Demo
+## Application Demo
 
   Open the program in MS Excel.
   
