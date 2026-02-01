@@ -77,6 +77,11 @@ window.addEventListener('DOMContentLoaded', () => {
     document.getElementById('yesBtn3').textContent = config.questions.third.yesBtn;
     document.getElementById('noBtn3').textContent = config.questions.third.noBtn;
 
+      // Set fourth question texts
+    document.getElementById('question4Text').textContent = config.questions.fourth.text;
+    document.getElementById('yesBtn4').textContent = config.questions.fourth.yesBtn;
+    document.getElementById('noBtn4').textContent = config.questions.fourth.noBtn;
+
     // Create initial floating elements
     createFloatingElements();
 
