@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Ritu Ji",
+    valentineName: "Kaleshi Ritu Ji",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -21,8 +21,13 @@ const CONFIG = {
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
+        zero: {
+            text: "Click on the music button on top right (Something wrong with chrome thing)",                                    // First interaction
+            yesBtn: "Done !!",                                             // Text for "Yes" button
+            noBtn: "It is already on !!",                                               // Text for "No" button
+        },
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "I know right, don't blush !! Tell me now, Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
@@ -54,8 +59,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yay! Areee bete mauj krdi! 🎉💝💖💝💓",
+        message: " Let's go girl, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
