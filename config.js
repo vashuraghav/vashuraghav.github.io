@@ -37,7 +37,7 @@ const CONFIG = {
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         },
-        third: {
+        fourth: {
             text: "Dekh le, beti abhi baap ki hi hai? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
