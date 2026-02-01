@@ -60,6 +60,11 @@ window.addEventListener('DOMContentLoaded', () => {
 
     // Set texts from config
     document.getElementById('valentineTitle').textContent = `${config.valentineName}, my love...`;
+
+    // Set zero question texts
+    document.getElementById('question0Text').textContent = config.questions.zero.text;
+    document.getElementById('yesBtn0').textContent = config.questions.zero.yesBtn;
+    document.getElementById('noBtn0').textContent = config.questions.zero.noBtn;
     
     // Set first question texts
     document.getElementById('question1Text').textContent = config.questions.first.text;
